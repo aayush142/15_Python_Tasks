@@ -1,0 +1,58 @@
+task
+
+1. 
+Given two integer numbers return their product only if the product is equal to or lower than 1000, else return their sum.
+
+example: x = 30 , y =20 ..output = 600
+	x = 40, y = 30 ...output = 70
+
+2.
+
+Write a program to iterate the first 10 numbers and in each iteration, print the sum of the current and previous number.
+expected output : 
+Printing current and previous number sum in a range(10)
+Current Number 0 Previous Number  0  Sum:  0
+Current Number 1 Previous Number  0  Sum:  1
+Current Number 2 Previous Number  1  Sum:  3
+Current Number 3 Previous Number  2  Sum:  5
+Current Number 4 Previous Number  3  Sum:  7
+Current Number 5 Previous Number  4  Sum:  9
+Current Number 6 Previous Number  5  Sum:  11
+Current Number 7 Previous Number  6  Sum:  13
+Current Number 8 Previous Number  7  Sum:  15
+Current Number 9 Previous Number  8  Sum:  17
+
+3. 
+Write a program to remove characters from a string starting from zero up to n and return a new string.
+example :
+("divyam", 2) so output must be vyam. Here we need to remove first two characters from a string
+
+a = string
+print= len = 6 
+choose = 3
+result = 3...
+
+example:
+a = "Divyam"
+len()= 6
+c = input = 2
+result: 2...5 = 2345: vyam
+
+
+4.
+Write a program to accept a string from the user and display characters that are present at an even index number.
+
+For example
+Orginal String is  "divyam"
+expected output : 
+Printing only even index chars
+d
+v
+a
+
+5.
+
+Write a function to return True if the first and last number of a given list is same. If numbers are different then return False.
+
+example : Given list: [10, 20, 30, 40, 10]
+result is True
